@@ -1,3 +1,3 @@
-# Vítejte na Githubu CanSat týmy SARFAD!
+# Vítejte na Githubu CanSat týmu SARFAD!
 
 [Socíální sítě](https://linktr.ee/sarfadofficial)
