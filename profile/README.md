@@ -1,3 +1,3 @@
-# Vítejte na Githubu CanSat týmu SARFAD!
+# Welcome to official Github of CanSat team SARFAD!
 
-[Socíální sítě](https://linktr.ee/sarfadofficial)
+[Social media](https://linktr.ee/sarfadofficial)
